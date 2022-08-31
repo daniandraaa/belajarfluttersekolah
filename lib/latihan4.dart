@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 class Latihankeempat extends StatelessWidget {
   Latihankeempat({Key? key}) : super(key: key);
 
+  // ignore: non_constant_identifier_names
   final List<Color> MyColor = [Colors.amber, Colors.black, Colors.pink];
 
   @override
