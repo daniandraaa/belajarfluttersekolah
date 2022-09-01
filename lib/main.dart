@@ -1,4 +1,5 @@
 import 'package:belajaran/latihan4.dart';
+import 'package:belajaran/pertama.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -25,7 +26,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: Latihankeempat(),
+      home: const PErtamalah(),
       debugShowCheckedModeBanner: false,
     );
   }
